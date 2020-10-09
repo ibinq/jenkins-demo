@@ -1,2 +1,7 @@
 server:
   port: 8888
+
+
+zhoubing:
+  name: zhoubing
+  age: 18
